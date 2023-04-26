@@ -2,7 +2,7 @@ export const advanced = [
     {
         id: 0,
         title: '음식을 빨리 배달 받고 싶어!',
-        cover_img_url: '/../public/assets/advanced_imgs/adv_id_0.png',
+        cover_img_url: '/assets/advanced_imgs/adv_id_0.png',
         alt: '',
         cover_content: [
             {

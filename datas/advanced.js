@@ -2,7 +2,7 @@ export const advanced = [
     {
         id: 0,
         title: '음식을 빨리 배달 받고 싶어!',
-        cover_img_url: './assets/advanced_imgs/adv_id_0.png',
+        cover_img_url: '../assets/advanced_imgs/adv_id_0.png',
         alt: '',
         cover_content: [
             {
@@ -31,19 +31,19 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '../assets/advanced_imgs/adv_id_0.png',
+                img: '../assets/advanced_imgs/adv_id_0_1.jpg',
                 desc: `배달의민족 첫 화면에서 배민1을 누른다.`,
                 alt: '구글 플레이스토어 메인화면',
             },
             {
                 id: 2,
-                img: '/../public/assets/advanced_imgs/adv_id_0_2.jpg',
+                img: '../assets/advanced_imgs/adv_id_0_2.jpg',
                 desc: `‘검색’을 누르고 원하는 음식이나 가게 이름을 검색한다.`,
                 alt: '플레이스토어 검색창이 강조된 메인화면'
             },
             {
                 id: 3,
-                img: '/../public/assets/advanced_imgs/adv_id_0_3.jpg',
+                img: '../assets/advanced_imgs/adv_id_0_3.jpg',
                 desc: `마음에 드는 가게를 선택해서 주문한다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
@@ -53,7 +53,7 @@ export const advanced = [
     {
         id: 1,
         title: '배달팁이 싼 곳에서 주문하고 싶어!',
-        cover_img_url: '/../public/assets/advanced_imgs/adv_id_1.png',
+        cover_img_url: '../assets/advanced_imgs/adv_id_1.png',
         alt: '',
         cover_content: [
             {
@@ -77,25 +77,25 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '/../public/assets/advanced_imgs/adv_id_1_1.jpg',
+                img: '../assets/advanced_imgs/adv_id_1_1.jpg',
                 desc: `배달의민족 첫 화면에서 먹고 싶은 음식을 검색한다.`,
                 alt: '구글 플레이스토어 메인화면',
             },
             {
                 id: 2,
-                img: '/../public/assets/advanced_imgs/adv_id_1_2.jpg',
+                img: '../assets/advanced_imgs/adv_id_1_2.jpg',
                 desc: `검색 결과에서 ‘기본순’을 누른다.`,
                 alt: '플레이스토어 검색창이 강조된 메인화면'
             },
             {
                 id: 3,
-                img: '/../public/assets/advanced_imgs/adv_id_1_3.jpg',
+                img: '../assets/advanced_imgs/adv_id_1_3.jpg',
                 desc: `‘배달팁 낮은 순’을 누르면 배달팁이 낮은 가게부터 볼 수 있다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
             {
                 id: 4,
-                img: '/../public/assets/advanced_imgs/adv_id_1_4.jpg',
+                img: '../assets/advanced_imgs/adv_id_1_4.jpg',
                 desc: `마음에 드는 가게를 선택해서 주문한다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
@@ -105,7 +105,7 @@ export const advanced = [
     {
         id: 2,
         title: '음식을 포장해서 먹고 싶어!',
-        cover_img_url: '/../public/assets/advanced_imgs/adv_id_2.png',
+        cover_img_url: '../assets/advanced_imgs/adv_id_2.png',
         alt: '',
         cover_content: [
             {
@@ -133,25 +133,25 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '/../public/assets/advanced_imgs/adv_id_2_1.jpg',
+                img: '../assets/advanced_imgs/adv_id_2_1.jpg',
                 desc: `배달의민족 첫 화면에서 포장을 누른다.`,
                 alt: '구글 플레이스토어 메인화면',
             },
             {
                 id: 2,
-                img: '/../public/assets/advanced_imgs/adv_id_2_2.jpg',
+                img: '../assets/advanced_imgs/adv_id_2_2.jpg',
                 desc: `지도가 나오고, 포장할 수 있는 가까운 가게가 음식 모양으로 표시된다.`,
                 alt: '플레이스토어 검색창이 강조된 메인화면'
             },
             {
                 id: 3,
-                img: '/../public/assets/advanced_imgs/adv_id_2_3.jpg',
+                img: '../assets/advanced_imgs/adv_id_2_3.jpg',
                 desc: `음식 모양을 누르면 가게 정보가 나온다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
             {
                 id: 4,
-                img: '/../public/assets/advanced_imgs/adv_id_2_4.jpg',
+                img: '../assets/advanced_imgs/adv_id_2_4.jpg',
                 desc: `지도에서 가게를 더 찾아 볼 수 있다. 마음에 드는 곳을 선택해서 주문한다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
@@ -161,7 +161,7 @@ export const advanced = [
     {
         id: 3,
         title: '1인분만 주문하고 싶어!',
-        cover_img_url: '/../public/assets/advanced_imgs/adv_id_3.png',
+        cover_img_url: '../assets/advanced_imgs/adv_id_3.png',
         alt: '',
         cover_content: [
             {
@@ -188,19 +188,19 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '/../public/assets/advanced_imgs/adv_id_3_1.jpg',
+                img: '../assets/advanced_imgs/adv_id_3_1.jpg',
                 desc: `배달의민족 첫 화면에서 먹고 싶은 음식을 검색한다.`,
                 alt: '구글 플레이스토어 메인화면',
             },
             {
                 id: 2,
-                img: '/../public/assets/advanced_imgs/adv_id_3_2.jpg',
+                img: '../assets/advanced_imgs/adv_id_3_2.jpg',
                 desc: `검색 결과에서 ‘1인분’을 누르면 1인분만 배달해주는 가게가 나온다.`,
                 alt: '플레이스토어 검색창이 강조된 메인화면'
             },
             {
                 id: 3,
-                img: '/../public/assets/advanced_imgs/adv_id_3_3.jpg',
+                img: '../assets/advanced_imgs/adv_id_3_3.jpg',
                 desc: `마음에 드는 가게를 선택해서 주문한다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
@@ -210,7 +210,7 @@ export const advanced = [
     {
         id: 4,
         title: '예전에 먹은 음식을 또 주문하고 싶어!',
-        cover_img_url: '/../public/assets/advanced_imgs/adv_id_4.png',
+        cover_img_url: '../assets/advanced_imgs/adv_id_4.png',
         alt: '',
         cover_content: [
             {
@@ -237,19 +237,19 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '/../public/assets/advanced_imgs/adv_id_4_1.jpg',
+                img: '../assets/advanced_imgs/adv_id_4_1.jpg',
                 desc: `배달의민족 첫 화면에서‘My배민’을 누른다.`,
                 alt: '구글 플레이스토어 메인화면',
             },
             {
                 id: 2,
-                img: '/../public/assets/advanced_imgs/adv_id_4_2.jpg',
+                img: '../assets/advanced_imgs/adv_id_4_2.jpg',
                 desc: `'주문내역'을 누른다.`,
                 alt: '플레이스토어 검색창이 강조된 메인화면'
             },
             {
                 id: 3,
-                img: '/../public/assets/advanced_imgs/adv_id_4_3.jpg',
+                img: '../assets/advanced_imgs/adv_id_4_3.jpg',
                 desc: `예전에 시켰던 가게와 메뉴 이름이 나온다. 가게 이름을 누르면 가게 정보를 볼 수 있다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
@@ -259,7 +259,7 @@ export const advanced = [
     {
         id: 5,
         title: '싫어하는 음식은 빼달라고 하고 싶어!',
-        cover_img_url: '/../public/assets/advanced_imgs/adv_id_5.png',
+        cover_img_url: '../assets/advanced_imgs/adv_id_5.png',
         alt: '',
         cover_content: [
             {
@@ -287,19 +287,19 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '/../public/assets/advanced_imgs/adv_id_5_1.jpg',
+                img: '../assets/advanced_imgs/adv_id_5_1.jpg',
                 desc: `주문하고 싶은 가게에 들어가 먹고 싶은 메뉴를 장바구니에 담는다.`,
                 alt: '구글 플레이스토어 메인화면',
             },
             {
                 id: 2,
-                img: '/../public/assets/advanced_imgs/adv_id_5_2.jpg',
+                img: '../assets/advanced_imgs/adv_id_5_2.jpg',
                 desc: `장바구니에 담긴 음식을 확인하고 ‘배달 주문하기’를 누른다.`,
                 alt: '플레이스토어 검색창이 강조된 메인화면'
             },
             {
                 id: 3,
-                img: '/../public/assets/advanced_imgs/adv_id_5_3.jpg',
+                img: '../assets/advanced_imgs/adv_id_5_3.jpg',
                 desc: `아래로 내리면 ‘가게 사장님께’가 있다. 회색 빈칸에 원하는 것을 적고 결제한다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
@@ -309,7 +309,7 @@ export const advanced = [
     {
         id: 6,
         title: '생활에 필요한 물건도 배달 받고 싶어!',
-        cover_img_url: '/../public/assets/advanced_imgs/adv_id_6.png',
+        cover_img_url: '../assets/advanced_imgs/adv_id_6.png',
         alt: '',
         cover_content: [
             {
@@ -335,19 +335,19 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '/../public/assets/advanced_imgs/adv_id_6_1.jpg',
+                img: '../assets/advanced_imgs/adv_id_6_1.jpg',
                 desc: `배달의민족 첫 화면에서 B마트(비마트)를 누른다.`,
                 alt: '구글 플레이스토어 메인화면',
             },
             {
                 id: 2,
-                img: '/../public/assets/advanced_imgs/adv_id_6_2.jpg',
+                img: '../assets/advanced_imgs/adv_id_6_2.jpg',
                 desc: `‘검색’을 누르고 필요한 물건을 검색한다.`,
                 alt: '플레이스토어 검색창이 강조된 메인화면'
             },
             {
                 id: 3,
-                img: '/../public/assets/advanced_imgs/adv_id_6_3.jpg',
+                img: '../assets/advanced_imgs/adv_id_6_3.jpg',
                 desc: `사고 싶은 물건을 선택해서 장바구니에 담는다. 음식을 주문하는 것과 똑같이 주문한다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
@@ -357,7 +357,7 @@ export const advanced = [
     {
         id: 7,
         title: '할인 받아서 음식을 주문하고 싶어!',
-        cover_img_url: '/../public/assets/advanced_imgs/adv_id_7.png',
+        cover_img_url: '../assets/advanced_imgs/adv_id_7.png',
         alt: '',
         cover_content: [
             {
@@ -384,25 +384,25 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '/../public/assets/advanced_imgs/adv_id_7_1.jpg',
+                img: '../assets/advanced_imgs/adv_id_7_1.jpg',
                 desc: `배달의민족 첫 화면에서 먹고 싶은 음식을 검색한다.`,
                 alt: '구글 플레이스토어 메인화면',
             },
             {
                 id: 2,
-                img: '/../public/assets/advanced_imgs/adv_id_7_2.jpg',
+                img: '../assets/advanced_imgs/adv_id_7_2.jpg',
                 desc: `검색 결과에서 ‘쿠폰’을 누르면 쿠폰을 주는 가게를 볼 수 있다.`,
                 alt: '플레이스토어 검색창이 강조된 메인화면'
             },
             {
                 id: 3,
-                img: '/../public/assets/advanced_imgs/adv_id_7_3.jpg',
+                img: '../assets/advanced_imgs/adv_id_7_3.jpg',
                 desc: `마음에 드는 가게를 선택하고 누른다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },
             {
                 id: 4,
-                img: '/../public/assets/advanced_imgs/adv_id_7_4.jpg',
+                img: '../assets/advanced_imgs/adv_id_7_4.jpg',
                 desc: `쿠폰 받기를 눌러서 필요한 쿠폰을 받고 음식을 주문한다.`,
                 alt: '배달의민족 텍스트를 입력하고 검색버튼을 누르는 이미지',
             },

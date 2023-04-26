@@ -2,7 +2,7 @@ export const advanced = [
     {
         id: 0,
         title: '음식을 빨리 배달 받고 싶어!',
-        cover_img_url: '/assets/advanced_imgs/adv_id_0.png',
+        cover_img_url: './assets/advanced_imgs/adv_id_0.png',
         alt: '',
         cover_content: [
             {
@@ -31,7 +31,7 @@ export const advanced = [
         content: [
             {
                 id: 1,
-                img: '/../public/assets/advanced_imgs/adv_id_0_1.jpg',
+                img: '../assets/advanced_imgs/adv_id_0.png',
                 desc: `배달의민족 첫 화면에서 배민1을 누른다.`,
                 alt: '구글 플레이스토어 메인화면',
             },

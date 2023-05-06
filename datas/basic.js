@@ -14,7 +14,7 @@ export const basic = [
         moreInfo:
             `
         <p className="basic_moreInfo__intro">
-            장애, 나이 상관없이 누구나 배달앱을 사용할 수 있도록 어려운 용어는 쉽게 바꾸고,<br>설명이 필요한 부분은 친절하게 안내했습니다.<br>사람들에게 많이 알려져있는 배달앱 <img id="bm-logo" src="/assets/basic_imgs/bm-logo.png" alt="배달의민족">을 기준으로 만들어졌습니다.
+            장애, 나이 상관없이 누구나 배달앱을 사용할 수 있도록 어려운 용어는 쉽게 바꾸고,<br>설명이 필요한 부분은 친절하게 안내했습니다.<br>사람들에게 많이 알려져있는 배달앱 <img id="bm-logo" src="../assets/basic_imgs/bm-logo.png" alt="배달의민족">을 기준으로 만들어졌습니다.
         </p>
         <ul className="basic_moreInfo__wrap">
             <li className="basic_moreInfo__flexbox">
@@ -28,7 +28,7 @@ export const basic = [
             </li>                    
         </ul>
         <div className="basic_intro_qr">
-            <img className="basic_qr" src="/assets/basic_imgs/qr.jpg" alt="쉬운배달앱사용법 다운로드받기 QR코드">
+            <img className="basic_qr" src="../assets/basic_imgs/qr.jpg" alt="쉬운배달앱사용법 다운로드받기 QR코드">
             <p className="basic_moreInfo_caption">휴대폰 카메라로 찍어보세요!</p>
             <h4 className="basic_download">쉬운 배달앱 사용법</h4>
             <a className="basic_download_btn" href="https://mandao-prod-cdn.baemin.com/assets/%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1X%EC%86%8C%EC%86%8C%ED%95%9C%EC%86%8C%ED%86%B5_%EC%89%AC%EC%9A%B4%EB%B0%B0%EB%8B%AC%EC%95%B1%EC%82%AC%EC%9A%A9%EB%B2%95_20211203.pdf">앱 다운로드 받기</a>            
@@ -118,31 +118,31 @@ export const basic = [
             {
                 id: '1',
                 desc: '플레이 스토어를 연다.',
-                img: '/assets/basic_imgs/b-3-1.jpg',
+                img: '../assets/basic_imgs/b-3-1.jpg',
                 alt: '',
             },
             {
                 id: '2',
                 desc: '검색창을 찾는다.',
-                img: '/assets/basic_imgs/b-3-2.jpg',
+                img: '../assets/basic_imgs/b-3-2.jpg',
                 alt: '',
             },
             {
                 id: '3',
                 desc: '<strong className="emphasis">배달의 민족</strong>을 입력하고 <i className="bi bi-search"></i>돋보기를 누른다.',
-                img: '/assets/basic_imgs/b-3-3.jpg',
+                img: '../assets/basic_imgs/b-3-3.jpg',
                 alt: '',
             },
             {
                 id: '4',
                 desc: '<strong className="emphasis">설치</strong>를 누른다.',
-                img: '/assets/basic_imgs/b-3-4.jpg',
+                img: '../assets/basic_imgs/b-3-4.jpg',
                 alt: '',
             },
             {
                 id: '5',
                 desc: '<strong className="emphasis">끝!</strong>',
-                img: '/assets/basic_imgs/b-3-5.jpg',
+                img: '../assets/basic_imgs/b-3-5.jpg',
                 alt: '',
             },
         ],
@@ -157,31 +157,31 @@ export const basic = [
             {
                 id: '1',
                 desc: '배달앱을 연다',
-                img: '/assets/basic_imgs/b-4-1.jpg',
+                img: '../assets/basic_imgs/b-4-1.jpg',
                 alt: '',
             },
             {
                 id: '2',
                 desc: '위치기반 서비스 동의에 체크한다.<br className="only-mobile"> 마케팅 정보 알림에 동의하면 체크하고 <strong className="emphasis">시작하기</strong>를 누른다.',
-                img: '/assets/basic_imgs/b-4-2.jpg',
+                img: '../assets/basic_imgs/b-4-2.jpg',
                 alt: '',
             },
             {
                 id: '3',
                 desc: '배달받을 주소를검색한다. <p class="caption"><i className="bi bi-exclamation-octagon-fill"></i>&nbsp;&#96;서울시 중구 소소로 123, 101호&#96;면, 소소로 123만 입력한다.</p>',
-                img: '/assets/basic_imgs/b-4-3.jpg',
+                img: '../assets/basic_imgs/b-4-3.jpg',
                 alt: '',
             },
             {
                 id: '4',
                 desc: '상세 주소를 입력하고 <strong className="emphasis">완료</strong>를 누른다. <p className="caption"><i className="bi bi-exclamation-octagon-fill"></i>&nbsp;상세주소: 건물 이름이나 동, 호 등 주소의 뒷부분</p>',
-                img: '/assets/basic_imgs/b-4-4.jpg',
+                img: '../assets/basic_imgs/b-4-4.jpg',
                 alt: '',
             },
             {
                 id: '5',
                 desc: '끝!',
-                img: '/assets/basic_imgs/b-4-5.jpg',
+                img: '../assets/basic_imgs/b-4-5.jpg',
                 alt: '',
             },
         ],
@@ -195,19 +195,19 @@ export const basic = [
             {
                 id: '1',
                 desc: '첫 화면에서 <img src="" alt="">를 눌러 My배민으로 들어간다.',
-                img: '/assets/basic_imgs/b-5-1.jpg',
+                img: '../assets/basic_imgs/b-5-1.jpg',
                 alt: '',
             },
             {
                 id: '2',
                 desc: '<strong className="emphasis">로그인해주세요</strong>를 누른다.',
-                img: '/assets/basic_imgs/b-5-2.jpg',
+                img: '../assets/basic_imgs/b-5-2.jpg',
                 alt: '',
             },
             {
                 id: '3',
                 desc: '<strong className="emphasis">이메일 회원가입</strong>을 누른다. <p className="caption"><i className="bi bi-exclamation-octagon-fill"></i>&nbsp;페이스북, 네이버, 애플 아이디와 앱이 있다면 더 빨리 가입할 수 있다.</p>',
-                img: '/assets/basic_imgs/b-5-3.jpg',
+                img: '../assets/basic_imgs/b-5-3.jpg',
                 alt: '',
             },
             {
@@ -225,37 +225,37 @@ export const basic = [
                     <p className="caption make_account_caption"><b className="emphasis_b"></b>[필수]를 확인하고 꼭 체크해야 배달의 민족을 사용할 수 있다.<br> [선택]을 확인하고 체크하고 싶으면 체크한다.</p>
                 </div>
                 `,
-                img: '/assets/basic_imgs/b-5-4.jpg',
+                img: '../assets/basic_imgs/b-5-4.jpg',
                 alt: '',
             },
             {
                 id: '5',
                 desc: '이름, 생년월일, 휴대전화 번호를 쓰고 <strong className="emphasis">인증번호 요청</strong>을 누른다. <p className="caption"><i className="bi bi-exclamation-octagon-fill"></i>&nbsp;인증번호: 실제로 사용하는 전화인지 확인하는 숫자. 문자로 받는다.</p>',
-                img: '/assets/basic_imgs/b-5-5.jpg',
+                img: '../assets/basic_imgs/b-5-5.jpg',
                 alt: '',
             },
             {
                 id: '6',
                 desc: '문자로 온 인증번호 4자리를 입력하고 <strong className="emphasis">확인</strong>을 누른다.',
-                img: '/assets/basic_imgs/b-5-6.jpg',
+                img: '../assets/basic_imgs/b-5-6.jpg',
                 alt: '',
             },
             {
                 id: '7',
                 desc: '이메일 주소를 입력하고 <strong className="emphasis">중복확인</strong>을 누른다. <p className="caption"><i className="bi bi-exclamation-octagon-fill"></i>&nbsp;회원가입을 하려면 이메일 주소가 있어야 한다.</p>',
-                img: '/assets/basic_imgs/b-5-7.jpg',
+                img: '../assets/basic_imgs/b-5-7.jpg',
                 alt: '',
             },
             {
                 id: '8',
                 desc: '닉네임, 비밀번호, 생년월일을 입력하고 <strong className="emphasis">완료</strong>를 누른다. <p className="caption"><i className="bi bi-exclamation-octagon-fill"></i>&nbsp;비밀번호는 10자보다 길게 만든다. 영어, 숫자, 특수문자 중 2가지 종류를 섞는다.</p>',
-                img: '/assets/basic_imgs/b-5-8.jpg',
+                img: '../assets/basic_imgs/b-5-8.jpg',
                 alt: '',
             },
             {
                 id: '9',
                 desc: '끝!',
-                img: '/assets/basic_imgs/b-5-9.jpg',
+                img: '../assets/basic_imgs/b-5-9.jpg',
                 alt: '',
             },
         ],
@@ -276,7 +276,7 @@ export const basic = [
         moreInfo:
             `
         <div className="basic_5_container">
-            <img className="basic_5_container__img" src="/assets/basic_imgs/first-page.jpg" alt="배달의민족 앱 메인화면">
+            <img className="basic_5_container__img" src="../assets/basic_imgs/first-page.jpg" alt="배달의민족 앱 메인화면">
             <ul>
                 <li><strong className="emphasis basic_5_item">1. 주소 정하기</strong> 배달 받을 곳을 주문할 때 정할 수 있다. 주소를 우리집, 회사 등의 이름으로 정하면 편하다.</li>
                 <li><strong className="emphasis basic_5_item">2. 서비스 전체보기</strong> 배달의민족 앱에서 이용할 수 있는 모든 서비스를 볼 수 있다.</li>
